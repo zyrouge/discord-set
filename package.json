@@ -1,0 +1,39 @@
+{
+    "name": "discord-set",
+    "version": "0.0.0",
+    "description": "A powerful module with so many features like memes, automemes, chatbot & more.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/INEX07/discord-set.git"
+    },
+    "keywords": [
+        "discord-set",
+        "discord.set",
+        "discord.js",
+        "eris",
+        "discord-chatbot",
+        "discord-meme",
+        "discord-automemes",
+        "automemes",
+        "discord",
+        "jokes",
+        "cathyjs",
+        "chatbot",
+        "cleverbot-free",
+        "shuffle",
+        "discord-emojify",
+        "emojify",
+        "discord-emoji"
+    ],
+    "author": "INEX07",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/INEX07/discord-set/issues"
+    },
+    "homepage": "https://github.com/INEX07/discord-set#readme",
+    "dependencies": {
+        "embedcord": "^2.0.0",
+        "node-fetch": "^2.6.0"
+    }
+}
