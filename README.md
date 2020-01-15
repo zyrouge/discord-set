@@ -1,6 +1,8 @@
 # Discord Set
 A powerful module with so many features like memes, automemes, chatbot & more.
 
+[![NPM](https://nodei.co/npm/discord-set.png)](https://nodei.co/npm/discord-set/)
+
 # Features
 - Posting memes to discord directly
 - Fetching random memes from reddit
