@@ -78,3 +78,5 @@ var responses = [
     'Outlook not so good',
     'Very doubtful'
 ];
+
+module.exports = responses;
